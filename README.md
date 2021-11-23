@@ -6,6 +6,7 @@ Familiarize yourself with scientific programming through the SKLearn / Scikitlea
 Level 1
 - Exercise 1
 Split the DelayedFlights.csv dataset into train and test. Study the two sets separately, at a descriptive level.
+The data set is at https://www.kaggle.com/giovamata/airlinedelaycauses
 
 Level 2
 - Exercise 2
