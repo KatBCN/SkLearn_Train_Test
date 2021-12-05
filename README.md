@@ -1,5 +1,5 @@
 # SkLearn_Train_Test
-IT Academy Sprint 11 - Train and Test
+IT Academy Sprint 9 - Train and Test
 
 Familiarize yourself with scientific programming through the SKLearn / Scikitlearn library.
 
